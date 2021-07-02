@@ -1,0 +1,206 @@
+h1{
+    color: cadetblue;
+    text-align: center;
+}
+h1:hover{
+    color: hotpink;
+}
+.blog{
+    background-color: lightskyblue;
+    border: 50px solid red;
+    border-radius: 15px;
+    box-shadow: 5px 10px  #888888;
+   
+    padding: 20px 40px;
+    width: 50%;
+    margin: 50px auto ;
+
+}
+.blog img{
+    height: 300px;
+    width: 50%; 
+    margin: 50px auto;
+    padding: 2px 40px;
+    border-radius: 50px;
+}
+.blog2{
+    background-color: lightslategray;
+    border: 50px dotted green;
+    border-radius: 20px;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px 40px;
+}
+.blog2 img{
+    height: 300px;
+    width: 50%; 
+    margin: 50px auto;
+    padding: 2px 40px;
+    border-radius: 50px;
+}
+.blog3{
+    background-color: lightsteelblue;
+    border: 50px dashed blueviolet;
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px 40px;
+}
+.blog3 img{
+    height: 300px;
+    width: 50%; 
+    margin: 50px auto;
+    padding: 2px 40px;
+    border-radius: 50px;
+}
+.blog4{
+    background-color: brown;
+    border: 50px double rgb(88, 15, 156);
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px 40px;
+}
+.blog4 img{
+    height: 300px;
+    width: 50%; 
+    margin: 50px auto;
+    padding: 2px 40px;
+    border-radius: 50px;
+}
+.blog5{
+    background-color: rgb(9, 240, 220);
+    border: 50px double rgb(64, 20, 224);
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px 40px;
+}
+.blog5 img{
+    height: 300px;
+    width: 50%; 
+    margin: 50px auto;
+    padding: 2px 40px;
+    border-radius: 50px;
+}
+.blog6{
+    background-color: rgb(22, 218, 71);
+    border: 50px ridge rgb(214, 8, 122);
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px 40px;
+}
+.blog6 img{
+    height: 300px;
+    width: 50%; 
+    margin: 50px auto;
+    padding: 2px 40px;
+    border-radius: 50px;
+}
+.blog7{
+    background-color: rgb(144, 202, 8);
+    border: 50px inset rgb(14, 167, 238);
+    
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px 40px;
+}
+.blog7 img{
+    height: 300px;
+    width: 50%; 
+    margin: 50px auto;
+    padding: 2px 40px;
+    border-radius: 50px;
+}
+.blog8{
+    background-color: rgb(197, 194, 196);
+    border: 50px outset rgb(6, 97, 41);
+    
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px 40px;
+}
+.blog8 img{
+    height: 300px;
+    width: 50%; 
+    margin: 50px auto;
+    padding: 2px 40px;
+    border-radius: 50px;
+}
+.blog9{
+    background-color: rgb(231, 164, 209);
+    border: 50px hidden rgb(162, 111, 221);
+    
+    border-radius: 10px;
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px 40px;
+}
+.blog9 img{
+    height: 300px;
+    width: 50%; 
+    margin: 50px auto;
+    padding: 2px 40px;
+    border-radius: 50px;
+}
+
+
+
+.blog-title{
+    text-align: center;
+    font-size: 2em;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.author-name{
+    color: tomato;
+}
+.blog p{
+    color:hotpink ;
+    text-align: justify;
+    font-size: 30px;
+}
+.blog2 p{
+    color: rgb(82, 100, 82);
+    text-align: justify;
+    font-size: 30px;
+}
+.blog3 p{
+    color: rgb(100, 54, 153);
+    text-align: justify;
+    font-size: 30px;
+}
+.blog4 p{
+    color: cadetblue;
+    text-align: justify;
+    font-size: 30px;
+}
+.blog5 p{
+    color: rgb(148, 79, 114);
+    text-align: justify;
+    font-size: 30px;
+}
+.blog6 p{
+    color: rgb(28, 152, 201);
+    text-align: justify;
+    font-size: 30px;
+}
+.blog7 p{
+    color: rgb(197, 16, 152);
+    text-align: justify;
+    font-size: 30px;
+}
+.blog8 p{
+    color: rgb(243, 9, 184);
+    text-align: justify;
+    font-size: 30px;
+}
+.blog9 p{
+    color: rgb(186, 233, 15);
+    text-align: justify;
+    font-size: 30px;
+}
